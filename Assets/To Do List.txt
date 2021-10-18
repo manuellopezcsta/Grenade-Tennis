@@ -1,0 +1,19 @@
+- Sonidos
+
+- ARREGLAR XQ CARAJO SE VE PARA EL ORTO LA VERSION WEB GL.
+
+- Mejorar el boton de Reinicio / Como jugar de nuevo. DONE
+
+- Menues / How to Play DONE
+
+- Agregar un reset buton, x si te quedas trabado. DONE (se podrian agregar limitaciones).
+
+- Agregar paredes. DONE
+
+- Limitar el saque a 1 por granada. DONE
+
+- Que el tiempo no empiece hasta despues del Saque. DONE (buscar posible metodo alterno).
+
+- Tiempo Random a Granadas. DONE
+
+- Agregar Win Condition. DONE
